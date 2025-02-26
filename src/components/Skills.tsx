@@ -3,13 +3,13 @@ import { motion } from 'framer-motion';
 
 const skills = [
   { name: 'React', level: 'Advanced' },
-  { name: 'Node.js', level: 'Advanced' },
+  { name: 'Node.js', level: 'Intermediate' },
   { name: 'MongoDB', level: 'Intermediate' },
   { name: 'SQL', level: 'Advanced' },
   { name: 'C++', level: 'Advanced' },
   { name: 'Java', level: 'Intermediate' },
   { name: 'Python', level: 'Intermediate' },
-  { name: 'Arduino', level: 'Advanced' },
+  { name: 'Arduino', level: 'Intermediate' },
   { name: 'AI & ML', level: 'Beginner' },
 ];
 
