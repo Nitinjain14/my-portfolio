@@ -6,7 +6,7 @@ import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Education from './components/Education';
 import Skills from './components/Skills';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 
 function App() {
   return (
