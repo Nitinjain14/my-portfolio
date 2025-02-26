@@ -66,7 +66,7 @@ const Hero = () => {
             className="w-32 h-32 mx-auto mb-8 rounded-full overflow-hidden ring-4 ring-purple-500/20 transform perspective-1000"
           >
             <img
-              src="src\image\portfolio_image.jpg"
+              src="/image/portfolio_image.jpg"
               alt="Nitin Jain"
               className="w-full h-full object-cover transform transition-transform duration-500"
             />
